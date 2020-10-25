@@ -2309,4 +2309,6 @@ ul.exp-desc li:before {
 div.contact__social i.fab {
 	padding: 2px;
 	font-size: 15px;
+	color: #aec0c3;
+	text-decoration: none;
 }
