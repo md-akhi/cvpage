@@ -2306,7 +2306,7 @@ ul.exp-desc li:before {
 	background: #ffc300;
 }
 
-div.contact__social i.fab {
+div.contact__social a {
 	padding: 2px;
 	font-size: 15px;
 	color: #aec0c3;
