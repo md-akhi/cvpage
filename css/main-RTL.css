@@ -2305,3 +2305,8 @@ label.exp-desc-title {
 ul.exp-desc li:before {
 	background: #ffc300;
 }
+
+div.contact__social i.fab {
+	padding: 2px;
+	font-size: 15px;
+}
