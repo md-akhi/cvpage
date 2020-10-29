@@ -4,8 +4,6 @@
 
 [WebSite](http://akhi.ir/)
 
-[link](url){:target="_blank"}
-
 
 
 
