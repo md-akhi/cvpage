@@ -1,4 +1,4 @@
-# CV(Resume) MD Amanalikhani
+## CV(Resume) MD Amanalikhani
 
 [GitHub](http://md-akhi.github.io/)
 
