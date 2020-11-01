@@ -1,1 +1,1 @@
-test
+go to index.htm
