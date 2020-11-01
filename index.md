@@ -1,2 +1,1 @@
-test
-del
+go to index.htm
