@@ -1,1 +1,2 @@
-go to index.htm
+go to index.html
+0
