@@ -1,6 +1,6 @@
 # JS
 ## Certification SoloLearn
-- [GitHub](https://github.com/md-akhi/md-akhi.github.io/blob/main/Certificates/)
+- [GitHub](https://github.com/md-akhi/md-akhi.github.io/blob/main/Certificates/https-www.sololearn.com-Certificate%7Bcert-%7D1024-20268127.jpg)
   - [SoloLearn](https://www.sololearn.com/Certificate/1024-20268127/jpg)
 
 ![IMG](https://md-akhi.github.io/Certificates/https-www.sololearn.com-Certificate{cert-}1024-20268127.jpg)
